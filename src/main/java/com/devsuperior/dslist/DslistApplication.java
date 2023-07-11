@@ -2,7 +2,7 @@ package com.devsuperior.dslist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-/**  Autor : Ravena Dafne */
+/**  Autor : Ravena Dafne*/
 @SpringBootApplication
 public class DslistApplication {
 
